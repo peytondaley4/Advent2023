@@ -1,0 +1,4 @@
+in{s<2:to,R}
+to{x<2:thre,R}
+thre{m<2:fo,R}
+fo{a<2:A,R}

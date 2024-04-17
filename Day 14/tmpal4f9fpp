@@ -1,0 +1,8 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Dec 14 00:03:34 2023
+
+@author: Peyton Daley
+"""
+
+f = open('input2.txt')
